@@ -1,0 +1,15 @@
+Nama 	: Muhammad Akbar Pratama Simatupang
+Kelas 	: XI 
+Umur 	: 16 tahun
+Sekolah	: SMK NEGERI 4 PADALARANG 
+Alamat	:	Provinsi 	:	Jawa Barat
+		Kabupaten	:	Bandung Barat
+		Kecamatan	:	Ngamprah
+		Desa		:	Cimareme,Kp.Cikandang Rt02Rw08 Rumah No.15
+No Telp	:08818221165
+Instagram: akbarard71
+
+
+Little announcement
+	Ini adalah Project Pertama yang saya Upload ke Github. Project ini merupakan Aplikasi Peminjaman Barang
+	dengan menggunakan Scanner Barcode di dalam sistem tersebut. 		
